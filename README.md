@@ -23,6 +23,7 @@ The baseline is intended to evolve through use. As additional applications are b
 
 ```text
 .
+├── designs/                             # System and architecture design documents
 ├── frameworks/
 │   ├── context-system-design-v0.2.md    # Framework for Context System Design
 │   └── task-driven-design-v0.1.md       # Framework for Task-Driven Design
